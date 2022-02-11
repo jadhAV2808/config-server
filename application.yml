@@ -1,0 +1,12 @@
+
+
+my:
+   list:
+     values: poo,dsd,dsdsd,dfdf
+   greeting: Hello
+
+db:
+   connection: connection-string-here-from-config-server
+   host: 122.4.0
+   port: 1100
+
